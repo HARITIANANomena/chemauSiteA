@@ -1,0 +1,54 @@
+.tete {
+    height: 450px;
+    background-image: url("dagocover.jpg");
+    background-size: cover;
+    /*position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;*/
+    margin-top: -5px;
+}
+
+.logo {
+    color: white;
+    margin-top: 5px;
+    position: relative;
+    top: 15px;
+}
+
+.ctnTravel {
+    width: 400px;
+}
+
+.ctnTravel h1{
+    color: #fff;
+    margin-top: 10%;
+    font-size: 4em;
+}
+
+.ctnTravel p {
+    color: #fff;
+    margin: 5% 0 5% 0;
+}
+
+.btnVoirPlus {
+    cursor: pointer;
+    background: none;
+    border: 2px solid white;
+    color: #fff;
+    margin-top: 5%;
+    padding: 2px 15px 2px 15px;
+}
+
+.btnVoirPlus:hover {
+    background-color: rgb(47, 196, 255) ;
+    transition: 1s;
+}
+
+/*SCTION 1*/
+#section1 {
+    height: 500px;
+    background-color: yellow;
+    /*position: relative;*/
+    top: 5px;
+}
